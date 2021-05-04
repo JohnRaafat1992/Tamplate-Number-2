@@ -130,7 +130,7 @@ body {
 @media (max-width:350px) {
 .container .image img {
     width: 250px;
-    margin: auto;
+	margin-left: 0px;
     }
 }
 .container .text{
